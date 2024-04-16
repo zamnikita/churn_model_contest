@@ -6,7 +6,7 @@ Can be found at the [link](https://ods.ai/competitions/data-fusion2024-churn/dat
 
 # Libraries
 
-pandas, sklearn, sksurv, xgboost, matplotlib
+pandas, sklearn, sksurv, matplotlib, xgboost, optuna.
 
 # Solutions
 
